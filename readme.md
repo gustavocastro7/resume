@@ -1,64 +1,70 @@
 # Gustavo Castro
-**Senior Engineering Manager | CTO | R&D Leader**
-*Orlando, FL | gustavocastro73@gmail.com*
+**Senior Engineering Manager | AI, SaaS & IoT Platforms**
+*Clermont, FL | gustavocastro73@gmail.com*
 *[linkedin.com/in/gustavocvcastro](https://www.linkedin.com/in/gustavocvcastro/)*
 
 ## Summary
-Highly accomplished **Senior Engineering Manager** with a **25-year track record** building and scaling high-performing, cross-functional teams (Software, Hardware, Data Science). Expert in delivering complex **SaaS, AI/Computer Vision, and IoT solutions** from concept to launch.
+**Senior Engineering Manager** with **25+ years of experience** building and scaling high-performance engineering teams across software, hardware, AI, and IoT domains. Expert in **scaling organizations (15 to 40 engineers)** and managing full product portfolios.
 
-Proven ability to scale engineering organizations (15 to 38+ engineers), manage international R&D initiatives (USA, Germany, China), and bridge the gap between technical strategy and business goals. Passionate about fostering cultures of ownership, continuous improvement, and technical excellence.
+Proven track record in delivering end-to-end SaaS platforms, AI Computer Vision solutions, and mission-critical systems in global contexts (USA, Europe, Asia). Dedicated to fostering cultures of ownership, accountability, and aligning technical strategy with aggressive business objectives.
 
 ## Experience
 
-### **Creare Sistemas SA** | *Engineering Manager*
+### **Creare Sistemas** | *Senior Engineering Manager*
 *Canoas, RS (Remote/Hybrid) | Nov 2023 – Present*
 
-*   **Orchestrated** a multidisciplinary engineering department (Backend, Frontend, Hardware, Data Science), aligning technical deliverables with aggressive business deadlines.
-*   **Modernized** the core SaaS platform by leading restructuring initiatives, focusing on component modularization and infrastructure scalability to enhance user experience.
-*   **Spearheaded** applied research partnerships with the Federal University of Rio Grande (FURG), driving innovation in advanced telemetry and data analysis.
-*   **Fortified** platform security and reliability by implementing rigorous telemetry data analysis and compliance measures for sensitive data protection.
-*   **Unified** the company’s product portfolio, ensuring seamless interoperability between legacy hardware and modern software solutions.
+*   **Orchestrated** cross-functional engineering teams (Backend, Frontend, Data Science, Hardware), managing the full SDLC for a core SaaS platform.
+*   **Scaled** the engineering organization from **15 to 38 engineers** in under one year, establishing hiring standards and expanding ownership of the software portfolio.
+*   **Modernized** the platform architecture, leading system unification initiatives that improved modularity, scalability, and user experience.
+*   **Spearheaded** the development of AI-powered safety camera systems and telemetry platforms for the heavy vehicle and agribusiness sectors.
+*   **Directed** funded R&D projects in strategic partnership with federal universities to drive innovation.
+*   **Aligned** engineering execution with executive business strategy, bridging the gap between product operations and technical delivery.
 
-### **Ponfac SA** | *CTO / R&D Manager*
-*Porto Alegre, RS | Oct 2019 – July 2023*
+### **Ponfac S.A** | *R&D Manager*
+*Porto Alegre, RS | Oct 2019 – Nov 2023*
 
-*   **Scaled** the engineering team from **15 to 38 members** in under one year, establishing hiring bars, onboarding processes, and career ladders.
-*   **Pioneered** a proprietary **AI Computer Vision algorithm** for the agribusiness sector (area-to-weight conversion for livestock), utilizing advanced image processing to estimate weight based on biometrics.
-*   **Architected and shipped** a **No-Code Computer Vision IDE**, integrating a proprietary SDK and OpenCV to democratize AI solution creation for non-technical users.
-*   **Expanded** product scope to include Safety AI Cameras and heavy vehicle telemetry (IoT), directly impacting revenue streams in transport and agriculture markets.
-*   **Directed** the full product lifecycle, acting as interim Product Owner and QA Lead to ensure critical delivery during a high-growth phase.
+*   **Engineered** and delivered AI-based computer vision algorithms specifically for industrial and agribusiness efficiency.
+*   **Architected and Launched** a **No-Code Computer Vision Platform**, integrating proprietary SDKs, OpenCV, and AI models to democratize access to vision technology.
+*   **Defined** the long-term technology roadmap and software architecture, setting engineering standards across multiple product lines (IoT & Robotics).
+*   **Coordinated** high-value innovation projects funded by national federal programs.
+*   **Partnered** directly with stakeholders to translate complex business needs into scalable technical solutions.
 
 ### **Elo Sistemas Eletronicos** | *Software Development Manager*
-*Porto Alegre, RS | Aug 2010 – Sept 2019*
+*Porto Alegre, RS | Aug 2010 – Sep 2019*
 
-*   **Delivered** complex Smart Grid infrastructure projects, including the development of remote reading servers and industrial routers for residential and commercial metering.
-*   **Managed** the end-to-end development of high-availability systems, overseeing scope, budget, schedules, and relationships with external stakeholders.
-*   **Defined** the software architecture and communication protocols for Brazil's national Smart Grid solution.
-*   **Facilitated** strategic partnerships with educational institutions to foster talent pipelines and joint research projects.
+*   **Managed** large-scale software development teams and external engineering vendors for mission-critical industrial systems.
+*   **Delivered** complex Smart Grid initiatives, successfully integrating enterprise software, network routers, and remote metering hardware.
+*   **Standardized** software architecture and communication protocols for national Smart Grid solutions.
+*   **Optimized** development processes, resulting in higher quality standards and improved delivery predictability across multiple squads.
+
+### **Fundação Bradesco** | *Professor (Industrial Automation)*
+*Gravataí, RS | Feb 2002 – 2011*
+*   **Delivered** technical instruction in Computer Science, Microcontrollers, and Networking, mentoring students in applied engineering principles.
 
 ### **Altus SA** | *R&D Manager*
-*Sao Leopoldo, RS | Aug 1999 – July 2010*
+*São Leopoldo, RS | Aug 1999 – July 2010*
 
-*   **Led** a 25-person R&D team in developing industrial automation products, including embedded software, PLCs, and high-performance fault-tolerant systems.
-*   **Negotiated** with international suppliers and partners in India, Czech Republic, and Germany, optimizing the supply chain and technology transfer.
-*   **Engineered** fault-tolerance systems for oil platforms, ensuring mission-critical reliability in harsh environments.
+*   **Directed** R&D departments including full budget ownership, hiring, training, and international supplier negotiations.
+*   **Led** the development of high-availability industrial automation systems, embedded software, and fault-tolerant solutions for oil & gas environments.
+*   **Facilitated** international engineering partnerships, managing technical relationships across **India, Germany, and the Czech Republic**.
+*   **Oversaw** the full product lifecycle from feasibility analysis to mass production and deployment.
 
-### **Fundação Bradesco** | *Professor (Technical Course in Electronics)*
-*Gravataí, RS | Mar 2002 – Oct 2011*
-*   **Taught** courses on Microcontrollers, Industrial Automation, and Local Area Networks, mentoring the next generation of technical talent.
+### **Phenix Consultoria** | *Embedded Software Consultant*
+*Feb 1998 – Nov 1999*
+*   Developed embedded software solutions for specific industry needs.
 
 ## Skills
 
-*   **Leadership:** Engineering Management, Team Scaling (15->40+), Strategic Planning, Agile/Scrum, Mentorship, Budget Management, Stakeholder Management.
-*   **Domains:** SaaS, Internet of Things (IoT), Computer Vision, Artificial Intelligence (AI), Industrial Automation, Smart Grid, Hardware/Software Integration.
-*   **Technical Stack:** Python, C++, C#, Java, Next.js, SQL, OpenCV, MQTT, TCP/IP, Embedded Systems.
-*   **Tools:** Jira, Git, Docker, CI/CD, Power BI, Microsoft Project.
+*   **Leadership:** Engineering Leadership, Team Scaling (15->40), R&D Management, Strategic Planning, Mentorship, Budget Management.
+*   **Domains:** SaaS Platforms, Computer Vision (AI), IoT, Embedded Systems, Smart Grid, Industrial Automation, Hardware/Software Integration.
+*   **Tech Strategy:** Cloud Architecture, Platform Modernization, No-Code Solutions, System Unification.
 
 ## Education
 
-*   **MBA in Management of Technology-Based Companies** | UNISINOS (2006)
-*   **Bachelor’s in Computer Science** | UNIVALI (1995)
+*   **MBA in Management of Technology-Based Companies** | Universidade do Vale do Rio dos Sinos (2006)
+*   **Bachelor of Computer Science** | Universidade do Vale do Itajaí (Univali) (1995)
 
 ## Languages
+*   **English:** Full Professional
 *   **Portuguese:** Native
-*   **English:** Fluent (Professional Proficiency)
+*   **Spanish:** Elementary
