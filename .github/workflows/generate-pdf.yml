@@ -5,27 +5,43 @@ on:
     branches:
       - main
       - master
+  workflow_dispatch: # Permite rodar manualmente clicando em um botão se precisar
 
 permissions:
   contents: write
 
 jobs:
-  convert_to_pdf:
+  build:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
 
-      - name: Markdown to PDF
-        uses: baileyjm02/markdown-to-pdf@v1
+      # 1. Configura Node.js
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
         with:
-          input_dir: .
-          output_dir: output
-          build_html: false
+          node-version: '18'
 
+      # 2. Cria a pasta de saída
+      - name: Create output directory
+        run: mkdir -p output
+
+      # 3. Instala e roda a conversão (Sem depender de actions quebradas)
+      - name: Convert MD to PDF
+        run: |
+          # Instala a ferramenta de CLI 'markdown-pdf'
+          npm install -g markdown-pdf
+
+          # Converte README.md usando o style.css para a pasta output
+          npx markdown-pdf -s style.css -o output/resume.pdf README.md
+
+      # 4. Salva o PDF no repositório (Commit & Push)
       - name: Commit PDF
         run: |
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
-          git add output/*.pdf
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update Resume PDF" && git push)
+          git add output/resume.pdf
+          # Só commita se houver mudança
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update Resume PDF [Skip CI]" && git push)
