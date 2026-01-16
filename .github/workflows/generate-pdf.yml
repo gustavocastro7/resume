@@ -54,11 +54,11 @@ jobs:
           npx md-to-pdf "$FILE" --stylesheet style.css --pdf-options '{ "format": "A4", "margin": "15mm", "printBackground": true }' --launch-options '{ "args": ["--no-sandbox"] }'
 
           # O md-to-pdf gera o PDF com o mesmo nome do MD (ex: README.pdf). Vamos mover para output/
-          mv "${FILE%.*}.pdf" output/resume.pdf
+          mv "${FILE%.*}.pdf" output/GustavoCastro-Resume.pdf
 
       - name: Commit PDF
         run: |
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
-          git add output/resume.pdf
+          git add output/GustavoCastro-Resume.pdf
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update Resume PDF [Skip CI]" && git push)
