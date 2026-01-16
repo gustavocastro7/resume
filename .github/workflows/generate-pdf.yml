@@ -49,16 +49,20 @@ jobs:
 
           echo "Convertendo arquivo: $FILE"
 
-          # Executa a conversão
-          # O --launch-options corrige problemas de permissão no ambiente Linux
+          # Executa a conversão do arquivo principal
           npx md-to-pdf "$FILE" --stylesheet style.css --pdf-options '{ "format": "A4", "margin": "15mm", "printBackground": true }' --launch-options '{ "args": ["--no-sandbox"] }'
-
-          # O md-to-pdf gera o PDF com o mesmo nome do MD (ex: README.pdf). Vamos mover para output/
           mv "${FILE%.*}.pdf" output/GustavoCastro-Resume.pdf
+
+          # Converte também o readmeAts.md se existir
+          if [ -f "readmeAts.md" ]; then
+            echo "Convertendo arquivo ATS: readmeAts.md"
+            npx md-to-pdf "readmeAts.md" --stylesheet style.css --pdf-options '{ "format": "A4", "margin": "15mm", "printBackground": true }' --launch-options '{ "args": ["--no-sandbox"] }'
+            mv "readmeAts.pdf" output/GustavoCastro.pdf
+          fi
 
       - name: Commit PDF
         run: |
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
-          git add output/GustavoCastro-Resume.pdf
+          git add output/*.pdf
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update Resume PDF [Skip CI]" && git push)

@@ -1,9 +1,9 @@
 # Gustavo Castro
 
-**Senior Engineering Manager | AI, SaaS & IoT Platforms | Scaling High-Performance Engineering Teams**  
-📍 Clermont, Florida, United States  
-📞 +1 (352) 349-4910  
-✉️ gustavocastro73@gmail.com  
+**Senior Engineering Manager | AI, SaaS & IoT Platforms | Scaling High-Performance Engineering Teams**
+📍 Orlando, Florida, United States
+📞 +1 (352) 349-4910
+✉️ gustavocastro73@gmail.com
 🔗 https://www.linkedin.com/in/gustavocvcastro/
 
 ---
@@ -18,8 +18,8 @@ Recognized for rapidly growing engineering organizations, modernizing platforms,
 
 ## Experience
 
-### Creare Sistemas SA  
-**Senior Engineering Manager**  
+### Creare Sistemas SA
+**Senior Engineering Manager**
 _November 2023 – Present | Distributed Teams_
 
 Led cross-functional teams responsible for SaaS platforms, AI-powered safety systems, and telemetry solutions.
@@ -32,8 +32,8 @@ Led cross-functional teams responsible for SaaS platforms, AI-powered safety sys
 
 ---
 
-### Ponfac S.A. – Innovation in Image Processing  
-**R&D Manager / CTO**  
+### Ponfac S.A. – Innovation in Image Processing
+**R&D Manager / CTO**
 _October 2019 – November 2023_
 
 - Defined technology strategy, software architecture, and engineering standards across multiple products.
@@ -44,8 +44,8 @@ _October 2019 – November 2023_
 
 ---
 
-### Elo Sistemas Eletrônicos SA  
-**Software Development Manager**  
+### Elo Sistemas Eletrônicos SA
+**Software Development Manager**
 _August 2010 – September 2019_
 
 - Led large-scale software development teams and external vendors.
@@ -55,8 +55,8 @@ _August 2010 – September 2019_
 
 ---
 
-### ALTUS SA  
-**R&D Manager / Software Development Manager**  
+### ALTUS SA
+**R&D Manager / Software Development Manager**
 _August 1999 – July 2010_
 
 - Managed R&D departments, budgets, hiring, and training.
@@ -68,16 +68,16 @@ _August 1999 – July 2010_
 
 ## Education
 
-**MBA – Management of Technology-Based Companies**  
+**MBA – Management of Technology-Based Companies**
 University of Vale do Rio dos Sinos (UNISINOS)
 
-**Bachelor of Computer Science**  
+**Bachelor of Computer Science**
 University of Vale do Itajaí (UNIVALI)
 
 ---
 
 ## Languages
 
-- Portuguese — Native  
-- English — Full Professional Proficiency  
+- Portuguese — Native
+- English — Full Professional Proficiency
 - Spanish — Elementary
