@@ -1,50 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+
+/* Variáveis para facilitar ajustes futuros */
+:root {
+    --line-thickness: 0.4pt;
+    --line-color: #444;
+    --text-color: #2c3e50;
+    --h-color: #000;
+}
+
 body {
-    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    color: #333;
-    line-height: 1.5;
-    font-size: 14px;
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 20px;
+    font-family: 'Roboto', -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    font-weight: 200;
+    color: var(--text-color);
+    line-height: 1.5; /* Melhorado para legibilidade */
+    font-size: 10pt; /* Unidade pt é mais precisa para PDF que px */
+    background-color: #fff;
+    text-align: left;
+    word-wrap: break-word;
+    margin: 0;
+    padding: 0;
 }
+
+/* Títulos com melhor hierarquia */
+h1, h2, h3 {
+    font-family: 'Roboto', sans-serif;
+    color: var(--h-color);
+    line-height: 1.2;
+    margin-bottom: 8px;
+}
+
 h1 {
-    border-bottom: 2px solid #333;
+    font-size: 22pt;
+    font-weight: 300;
+    letter-spacing: 1px;
+    border-bottom: var(--line-thickness) solid var(--line-color);
     padding-bottom: 10px;
-    margin-bottom: 10px;
-    font-size: 24px;
-    text-transform: capitalize;
+    margin-top: 0;
 }
+
 h2 {
-    background-color: #f4f4f4;
-    padding: 5px 10px;
-    margin-top: 20px;
-    border-left: 5px solid #333;
-    font-size: 18px;
-    text-transform: capitalize;
+    font-size: 12pt;
+    font-weight: 200;
+    color: var(--h-color);
+    border-bottom: var(--line-thickness) solid var(--line-color);
+    margin-top: 18px;
+    padding-bottom: 3px;
+    letter-spacing: 0.5px;
 }
+
 h3 {
-    margin-top: 15px;
+    font-size: 11pt;
+    font-weight: 200;
+    margin-top: 12px;
     margin-bottom: 2px;
-    font-size: 16px;
-    color: #000;
 }
-em {
-    font-style: normal;
-    color: #666;
-    font-size: 13px;
+
+/* Ajuste de parágrafos e listas */
+p {
+    margin-top: 0;
+    margin-bottom: 6px;
 }
+
+ul {
+    padding-left: 18px;
+    margin-top: 4px;
+    margin-bottom: 8px;
+}
+
+li {
+    margin-bottom: 3px;
+}
+
+/* Estilização de Datas e Cargos (Markdown: **Cargo** \n _Data_) */
 strong {
-    font-weight: bold;
+    font-weight: 500;
     color: #000;
 }
+
+em {
+    font-style: italic;
+    color: #666;
+}
+
+/* Links profissionais */
 a {
-    color: #007bff;
+    color: #2980b9;
     text-decoration: none;
 }
-ul {
-    margin-top: 5px;
-    padding-left: 20px;
+
+/* Container otimizado para A4 */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 40px; /* Margem padrão de impressão */
 }
+
+/* Melhoria para Contact Info */
+#contact-info {
+    font-size: 10pt;
+    margin-bottom: 20px;
+    color: #555;
+}
+
+#contact-info a {
+    margin: 0 10px 0 0;
+}
+
+/* Forçar quebras de página amigáveis */
+h2, h3 {
+    page-break-after: avoid;
+}
+
 li {
-    margin-bottom: 4px;
+    page-break-inside: avoid;
+}
+
+.note {
+    color: #ffffff; /* Light gray color */
+    font-size: 5pt;
+    font-style: italic;
 }

@@ -13,7 +13,7 @@ Senior Engineering Manager with 25+ years of experience in software engineering,
 
 ## Core Skills
 
-Engineering Leadership, Senior Engineering Manager, Software Engineering, SaaS Platforms, Artificial Intelligence, Computer Vision, Internet of Things, Cloud Computing, Product Development, Team Leadership, Software Architecture, System Architecture, Platform Engineering, Embedded Systems, Hardware–Software Integration, Distributed Systems, High Availability Systems, Data Platforms, API Design, Telemetry Systems, Machine Learning, Image Processing, OpenCV, AI Algorithms, IoT Platforms, MQTT, Industrial Automation, Smart Grid Systems, Data Analytics, SQL, Engineering Management, Cross-Functional Leadership, People Management, Team Scaling, Mentoring & Coaching, Agile Methodologies, Scrum, Project Management, Program Management, Technology Strategy
+Engineering Leadership, Senior Engineering Manager, Software Engineering, SaaS Platforms, Artificial Intelligence, Computer Vision, Internet of Things, Cloud Computing, Product Development, Team Leadership, Software Architecture, System Architecture, Platform Engineering, Embedded Systems, Hardware–Software Integration, Distributed Systems, High Availability Systems, Data Platforms, API Design, Telemetry Systems, Machine Learning, Image Processing, OpenCV, AI Algorithms, IoT Platforms, MQTT, Kafka, Industrial Automation, Smart Grid Systems, Data Analytics, SQL, Engineering Management, Cross-Functional Leadership, People Management, Team Scaling, Mentoring & Coaching, Agile Methodologies, Scrum, Project Management, Program Management, Technology Strategy
 
 ## Professional Experience
 

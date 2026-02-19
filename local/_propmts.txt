@@ -1,0 +1,148 @@
+Vaga:
+
+https://www.careerbuilder.com/job/J3N2JP6P9F14WFHQ94H
+
+Arquivo em Markdown: Create a resume to ATS to this job  (em ingles)
+Arquivo em Markdown: Create a cover letter to this job (em ingles) seja generico no destino da carta, inicie com "Dear Hiring Manager,", não use nomes na carta
+Preencha com meus dados reais do resume  (em ingles)
+Nao invente
+Calcule a taxa de aderencia ao ATS para mercado americano (USA)
+Nunca use meu nome todo em maiusculo, sempre solmente a primeira letra em maiusculo "Gustavo Castro"
+Destaque no CV ATS os pontos importantes
+
+
+Meu CV:
+
+# Gustavo Castro
+
+**Phone:** +13523494910
+**Email:** gustavocastro73@gmail.com
+**Location:** Orlando, FL
+**LinkedIn:** [linkedin.com/in/gustavocvcastro/](https://www.linkedin.com/in/gustavocvcastro/)
+
+## Summary
+
+I am a highly accomplished and results-driven Senior Engineering Manager and R&D Leader with a distinguished 25-year track record in building and scaling high-performing, cross-functional teams. My expertise lies in delivering innovative software and hardware solutions from concept to launch, with a deep specialization in SaaS, AI/Computer Vision, and IoT technologies.
+
+Throughout my career, I've demonstrated a proven ability to significantly grow engineering organizations, notably expanding a single product team from 15 to 38 engineers in one year and later overseeing an entire company's software portfolio. I've led complex initiatives globally, including the development of advanced AI algorithms, No-Code computer vision systems, and critical platform restructuring to enhance infrastructure and user experience. My extensive international project experience spans the USA, Germany, and China, providing a broad perspective on global tech challenges.
+
+As a collaborative leader and technical educator, I am passionate about driving both product excellence and team growth. I thrive in environments where technology, strategy, and mentorship intersect, fostering a culture of ownership, accountability, and continuous improvement. My focus is always on aligning technical strategy with strategic business objectives to deliver measurable and significant impact for the team and the business.
+
+## Experience
+
+### Creare Sistemas SA
+**Engineering Manager** | Canoas, RS
+*11/2023 - Present*
+
+**Team Leadership and Management:**
+- Lead and manage a team of engineers across various disciplines, including backend, frontend, hardware, and data science.
+- Foster effective collaboration and communication within the team, ensuring the delivery of high-quality projects within established deadlines.
+- Manage the research team in partnership with the Federal University of Rio Grande (FURG), promoting innovation and applied research in advanced technologies.
+
+**Development and Implementation:**
+- Complete software development lifecycle, ensuring adherence to best practices, coding standards, and agile methodologies.
+- Drive the development and implementation of new features and enhancements for the SaaS platform, ensuring customer satisfaction and market competitiveness.
+- Lead hardware engineering teams to ensure seamless and efficient integration with the software platform, promoting system interoperability.
+- Plan, develop, and deploy new features and components for the SaaS platform, meeting market needs and stakeholder requirements.
+
+**Data Management and Security:**
+- Manage and analyze telemetry data to enhance the security and reliability features of the SaaS platform.
+- Implement security measures and practices to protect sensitive data and ensure compliance with industry regulations and standards.
+
+**Project and Innovation Management:**
+- Coordinate and manage funded innovation projects, promoting research and development of new technologies and innovative solutions.
+- Foster a creative and innovative work environment, encouraging the team to explore new ideas and approaches to solve complex problems.
+
+**Product and Solution Integration:**
+- Responsible for unifying the company's products and solutions, ensuring cohesion and integration across different systems and platforms.
+- Lead platform restructuring initiatives, focusing on improving infrastructure, component modularization, and enhancing the user interface for a more intuitive and efficient experience.
+
+**Accomplishments:**
+I began my journey managing 15 employees and overseeing one product. Within just one year, I made significant progress, advancing to manage 38 team members and taking on the supervision of all the company's software products. This expanded scope of responsibility included managing Safety AI Cameras, telemetry for heavy vehicles (both for transport and agribusiness, specifically sugarcane and timber), the generation of essential data for analysis and decision-making, and the development of mobile solutions. Furthermore, I actively contributed to the development support team, performing crucial roles as QA (Quality Assurance), PO (Product Owner), and Project Manager.
+
+---
+
+### Ponfac SA
+**R&D Manager** | Porto Alegre, RS
+*10/2019 - 07/2023*
+
+- Management of the R&D Team, development, customer service, IoT.
+- Innovation Project Management, new solutions for computer vision projects.
+- Visual Inspection, Computer Vision and Robotics Projects.
+- Specification of new technologies and software architecture.
+- Ponfac Innovation Project Coordinator with FINEP (Brazilian government development area).
+
+**Accomplishments:**
+I started as an R&D Manager and in this innovative company, where I developed several key solutions. One significant achievement was creating an area-to-weight conversion algorithm. This algorithm took superior AI-processed images of pigs and converted them into estimated weights by considering the animal's age, length, height, and sex. Additionally, I designed and developed a No-Code system for computer vision projects. This comprehensive solution included an Integrated Development Environment (IDE) that seamlessly integrated the company's proprietary SDK, OpenCV, and various AI solutions into a single, user-friendly platform.
+
+---
+
+### Elo Sistemas Eletronicos SA
+**Software Development Manager** | Porto Alegre, RS
+*08/2010 - 09/2019*
+
+- Software development manager: team management and process improvement.
+- Project management, issuing financial and physical reports for company management, contracts, payments, scope definition.
+- Outsourced management.
+- Specification of new technologies and software architecture.
+- Management of systems and applications development projects, remote reading server, alarms and automatic registration for Smart Grid.
+- Smart Grid Project - Integration between elements of the smart grid system for infrastructure to access measurement data in consumers: industrial, commercial and residential, managing the project, schedule, reports, scope, budget.
+- Router project: development of a network infrastructure router for access to residential, commercial and industrial meters, managing the product project, schedule, budget, staff, specifications and pilot batch production.
+- Relationship with educational institutions for the development of fostered projects.
+- Specification of protocols and software architecture for Smart Grid.
+- Definition and development of the smart grid solution architecture for Brazil.
+
+---
+
+### Fundação Bradesco
+**Professor - Technical Course in Electronics** | Gravatai, RS
+*03/2002 - 10/2011*
+
+- **Chairs taught:** Introduction to Informatics; Microcontrollers and Interfaces; Organization and Standards; Programmable Controllers; Local Area Networks; Industrial automation; Industrial Networks.
+
+---
+
+### ALTUS SA
+**R&D Manager** | Sao Leopoldo, RS
+*08/1999 - 07/2010*
+
+- Management of the R&D sector: budget, staff, hiring, training, negotiation with national and international suppliers.
+- Software development manager (Software Factory): team management and process improvement.
+- Management of the project team (25 people) to develop industrial automation products and systems. Performing systems projects, embedded software, networks, high performance systems, high availability, project management, schedule, budget, acquisitions, suppliers and production.
+- Specification of new technologies and software architecture.
+- Projects of fault tolerance systems in oil platforms, automation control, project management of fault tolerance products, budget, schedule, engineering team, production and installation monitoring.
+- Project management innovation products: programmable controllers (hardware, software, test), programming software.
+- Project feasibility analysis and budget.
+- Participation in R&D events, as well as national and international fairs.
+- Development with partner companies in India and the Czech Republic, where it held technical meetings and training on new technologies.
+
+## Skills
+
+- **Core:** Software Development, Software Engineering, Product Development, SaaS, Software Architecture.
+- **Languages & Frameworks:** C++, C#, Python, Node.js, Java, Next.js, SQL, NoSQL.
+- **AI & Data:** Machine Learning, Computer Vision, Image Processing, OpenCV, AI Smart Cam, Power BI.
+- **IoT & Industrial:** IoT (Internet of Things), MQTT, TCP/IP, PLC, Industrial Protocols, Telemetry, Hardware Integration.
+- **Tools & Process:** GIT, Jira, Microsoft Project, Microsoft Excel, Microsoft Powerpoint.
+
+## Education
+
+- **MBA in Management of Technology-Based Companies**
+  University of Vale do Sinos - UNISINOS, Sao Leopoldo, RS | *10/2006*
+
+- **Bachelor's in Computer Science**
+  University of Vale do Itajaí - UNIVALI, Itajai, SC | *07/1995*
+
+## Languages
+
+- **Portuguese:** Native
+- **English:** Fluent/Professional
+- **Spanish:** Intermediate/Conversational
+
+## International Experience
+
+- **2015:** Monitoring of integration tests between management system and data with remote energy meters, USA.
+- **2009:** Hannover Fair, Germany.
+- **2009:** 20 days in technical specification meeting with project development partner, India.
+- **2008:** 10 days for training, Germany.
+- **2008:** 10 days visiting raw material suppliers, China.
+- **2008 - 2011:** Meetings in Brazil with technicians and executives from India, Czech Republic and Germany and teleconferences every 15 days.

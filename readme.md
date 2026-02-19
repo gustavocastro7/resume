@@ -1,7 +1,9 @@
 # Gustavo Castro
 
 **Senior Engineering Manager | AI, SaaS & IoT Platforms | Scaling High-Performance Engineering Teams**
-📍 Orlando, Florida, United States
+📍 Orlando, FL – United States
+
+**Gustavo Castro**, United States
 📞 +1 (352) 349-4910
 ✉️ gustavocastro73@gmail.com
 🔗 https://www.linkedin.com/in/gustavocvcastro/

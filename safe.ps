@@ -1,0 +1,165 @@
+# ==============================
+# Script de Auditoria - PUP/Updater
+# ==============================
+# Autor: ChatGPT
+# Objetivo: Detectar resquícios de Skillbrains / Updater e possíveis PUPs
+# Modo: Somente leitura (não remove nada)
+# ==============================
+
+$reportPath = "$env:USERPROFILE\Desktop\Audit_Report_Skillbrains.txt"
+$csvPath    = "$env:USERPROFILE\Desktop\Audit_Report_Skillbrains.csv"
+
+# Função de escrita no relatório
+function Write-Log {
+    param([string]$text)
+    Add-Content -Path $reportPath -Value $text
+    Write-Host $text
+}
+
+# Início do relatório
+"==========================" | Out-File $reportPath
+"Audit Report - Skillbrains / Updater" | Out-File $reportPath -Append
+"Date: $(Get-Date)" | Out-File $reportPath -Append
+"==========================" | Out-File $reportPath -Append
+"" | Out-File $reportPath -Append
+
+# ==============================
+# 1) Verificar pasta
+# ==============================
+Write-Log "1) Verificação de pastas comuns"
+$paths = @(
+    "C:\Program Files (x86)\Skillbrains",
+    "C:\Program Files\Skillbrains",
+    "C:\Program Files (x86)\Skillbrains\Updater\Updater.exe",
+    "C:\Program Files\Skillbrains\Updater\Updater.exe"
+)
+
+foreach ($p in $paths) {
+    $exists = Test-Path $p
+    Write-Log "Path: $p -> Exists: $exists"
+}
+
+"" | Out-File $reportPath -Append
+
+# ==============================
+# 2) Registro (HKCU e HKLM)
+# ==============================
+Write-Log "2) Verificação no Registro"
+
+$regKeys = @(
+    "HKCU:\Software\Skillbrains",
+    "HKCU:\Software\SkillBrains",
+    "HKLM:\Software\Skillbrains",
+    "HKLM:\Software\SkillBrains",
+    "HKLM:\Software\WOW6432Node\Skillbrains",
+    "HKLM:\Software\WOW6432Node\SkillBrains",
+    "HKCU:\Software\Microsoft\Windows\CurrentVersion\Run",
+    "HKLM:\Software\Microsoft\Windows\CurrentVersion\Run",
+    "HKLM:\Software\WOW6432Node\Microsoft\Windows\CurrentVersion\Run"
+)
+
+foreach ($k in $regKeys) {
+    $exists = Test-Path $k
+    Write-Log "Key: $k -> Exists: $exists"
+}
+
+"" | Out-File $reportPath -Append
+
+# ==============================
+# 3) Run keys (detalhado)
+# ==============================
+Write-Log "3) Conteúdo de Run keys (possíveis persistências)"
+
+$runKeys = @(
+    "HKCU:\Software\Microsoft\Windows\CurrentVersion\Run",
+    "HKLM:\Software\Microsoft\Windows\CurrentVersion\Run",
+    "HKLM:\Software\WOW6432Node\Microsoft\Windows\CurrentVersion\Run"
+)
+
+foreach ($rk in $runKeys) {
+    Write-Log "`n-- $rk --"
+    Get-ItemProperty $rk -ErrorAction SilentlyContinue |
+    Select-Object PSChildName, * |
+    Format-List | Out-String | Out-File $reportPath -Append
+}
+
+"" | Out-File $reportPath -Append
+
+# ==============================
+# 4) Tarefas agendadas
+# ==============================
+Write-Log "4) Tarefas agendadas (busca por skill/updater)"
+
+Get-ScheduledTask |
+Where-Object {
+    $_.TaskName -match "skill|updater" -or
+    $_.Actions.Execute -match "skill|updater|Updater.exe"
+} |
+Select TaskName, State, Actions |
+Format-List | Out-String | Out-File $reportPath -Append
+
+"" | Out-File $reportPath -Append
+
+# ==============================
+# 5) Serviços suspeitos
+# ==============================
+Write-Log "5) Serviços suspeitos (skill/updater)"
+
+Get-Service |
+Where-Object { $_.Name -match "skill|updater" -or $_.DisplayName -match "skill|updater" } |
+Select Name, DisplayName, Status |
+Format-List | Out-String | Out-File $reportPath -Append
+
+"" | Out-File $reportPath -Append
+
+# ==============================
+# 6) Inicialização (Startup)
+# ==============================
+Write-Log "6) Inicialização automática (Startup)"
+
+Get-CimInstance Win32_StartupCommand |
+Where-Object { $_.Command -match "skill|updater|Skillbrains" } |
+Select Name, Command, User |
+Format-List | Out-String | Out-File $reportPath -Append
+
+"" | Out-File $reportPath -Append
+
+# ==============================
+# 7) Processos ativos
+# ==============================
+Write-Log "7) Processos ativos (skill/updater)"
+
+Get-Process |
+Where-Object { $_.ProcessName -match "skill|updater" } |
+Select ProcessName, Id, CPU, StartTime |
+Format-List | Out-String | Out-File $reportPath -Append
+
+"" | Out-File $reportPath -Append
+
+# ==============================
+# 8) Policies do Chrome/Edge/Vivaldi (se disponíveis)
+# ==============================
+Write-Log "8) Policies (Chrome/Edge/Vivaldi)"
+
+$chromePolicy = & "$env:ProgramFiles(x86)\Google\Chrome\Application\chrome.exe" --policy-templates 2>$null
+$edgePolicy   = & "$env:ProgramFiles(x86)\Microsoft\Edge\Application\msedge.exe" --policy-templates 2>$null
+
+Write-Log "Chrome policy check (tool not available on all installs):"
+Write-Log $chromePolicy
+
+Write-Log "Edge policy check (tool not available on all installs):"
+Write-Log $edgePolicy
+
+"" | Out-File $reportPath -Append
+
+# ==============================
+# 9) Saída final
+# ==============================
+Write-Log "=========================="
+Write-Log "Relatório salvo em: $reportPath"
+Write-Log "=========================="
+
+Write-Host ""
+Write-Host "Relatório final salvo na sua área de trabalho."
+Write-Host "Abra o arquivo Audit_Report_Skillbrains.txt"
+
