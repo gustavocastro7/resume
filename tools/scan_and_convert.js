@@ -5,7 +5,7 @@ const { execSync } = require('child_process');
 // Configuration
 const LAST_RUN_FILE = path.join(__dirname, 'last_run.json');
 const ROOT_DIR = path.resolve(__dirname, '..');
-const CONVERT_SCRIPT = path.join(__dirname, 'convert_md_to_pdf.bat');
+const CONVERT_SCRIPT = path.join(__dirname, 'convert_md.bat');
 
 // Load last run time
 let lastRunTime = 0;
