@@ -47,7 +47,7 @@ Distinguished Senior Engineering Executive and R&D Leader with over 25 years of 
 * **Global Collaboration:** Managed a team of 25+ engineers for industrial automation products, coordinating with partners in India and the Czech Republic.
 * **Technical Delivery:** Oversaw the "Software Factory" and hardware development for high-availability systems used in oil platforms.
 
-### Fundação Bradesco
+### Fundaçao Bradesco
 **Professor - Technical Course in Electronics** | Gravatai, RS
 *03/2002 – 10/2011*
 

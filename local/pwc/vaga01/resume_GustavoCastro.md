@@ -65,7 +65,7 @@ Senior Engineering Manager and R&D leader with over 25 years of experience build
 University of Vale do Sinos (UNISINOS), Brazil
 
 **Bachelor of Science — Computer Science**  
-University of Vale do Itajaí (UNIVALI), Brazil
+University of Vale do Itajai (UNIVALI), Brazil
 
 ---
 

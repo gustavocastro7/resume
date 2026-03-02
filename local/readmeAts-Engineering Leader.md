@@ -36,7 +36,7 @@ Senior Engineering Manager with 25+ years of experience leading software develop
 
 **EDUCATION**
 *   **MBA in Management of Technology-Based Companies** | University of Vale do Rio dos Sinos (Brazil)
-*   **Bachelor of Science in Computer Science** | University of Vale do Itajaí (Brazil)
+*   **Bachelor of Science in Computer Science** | University of Vale do Itajai (Brazil)
 
 ---
 

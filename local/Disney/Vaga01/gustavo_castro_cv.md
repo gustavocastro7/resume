@@ -93,7 +93,7 @@ August 1999 – July 2010
 University of Vale do Rio dos Sinos (UNISINOS)
 
 **Bachelor of Computer Science**
-University of Vale do Itajaí (UNIVALI)
+University of Vale do Itajai (UNIVALI)
 
 ---
 

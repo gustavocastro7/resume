@@ -60,7 +60,7 @@ Throughout my career, I have bridge the gap between technical complexity and bus
 
 * **MBA in Management of Technology-Based Companies** – UNISINOS, Brazil.
 * **Bachelor’s in Computer Science** – UNIVALI, Brazil.
-* **Technical Professor (Electronics)** – Fundação Bradesco (2002-2011). Taught Industrial Automation, Microcontrollers, and Local Area Networks.
+* **Technical Professor (Electronics)** – Fundaçao Bradesco (2002-2011). Taught Industrial Automation, Microcontrollers, and Local Area Networks.
 
 ---
 

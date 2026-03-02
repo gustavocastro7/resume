@@ -43,13 +43,13 @@ jobs:
           elif [ -f "readme.md" ]; then
             FILE="readme.md"
           else
-            echo "ERRO: Arquivo README.md não encontrado!"
+            echo "ERRO: Arquivo README.md nao encontrado!"
             exit 1
           fi
 
           echo "Convertendo arquivo: $FILE"
 
-          # Executa a conversão do arquivo principal
+          # Executa a conversao do arquivo principal
           npx md-to-pdf "$FILE" --stylesheet style.css --pdf-options '{ "format": "A4", "margin": "15mm", "printBackground": true }' --launch-options '{ "args": ["--no-sandbox"] }'
           mv "${FILE%.*}.pdf" output/GustavoCastro-Resume.pdf
 

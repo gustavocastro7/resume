@@ -46,7 +46,7 @@ Throughout my career, I have expanded engineering organizations from 15 to 38+ e
 *   **Project Management:** Oversaw the development of network routers and high-availability infrastructure, managing budgets, schedules, pilot production, and "hardware-to-software" integration teams.
 *   **Team Scaling:** Responsible for process improvement, outsourcing management, and defining software architecture for critical energy distribution networks in Brazil.
 
-### Fundação Bradesco | *Professor - Technical Course in Electronics*
+### Fundaçao Bradesco | *Professor - Technical Course in Electronics*
 *Gravatai, RS | 03/2002 – 10/2011*
 *   Taught Microcontrollers, Industrial Automation, Local Area Networks, and Informatics standards.
 
@@ -62,7 +62,7 @@ Throughout my career, I have expanded engineering organizations from 15 to 38+ e
 University of Vale do Sinos - UNISINOS, Sao Leopoldo, RS | *2006*
 
 **Bachelor's in Computer Science**
-University of Vale do Itajaí - UNIVALI, Itajai, SC | *1995*
+University of Vale do Itajai - UNIVALI, Itajai, SC | *1995*
 
 ---
 

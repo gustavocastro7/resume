@@ -87,7 +87,7 @@ Led engineering teams developing embedded systems, industrial automation platfor
 - Managed a 25-person engineering organization delivering industrial control and automation systems.
 - Delivered embedded software and distributed industrial solutions for critical environments.
 
-### Fundação Bradesco — Technical Instructor
+### Fundaçao Bradesco — Technical Instructor
 **03/2002 – 10/2011**
 
 - Instructor in electronics, automation, programming, networking, and industrial systems.

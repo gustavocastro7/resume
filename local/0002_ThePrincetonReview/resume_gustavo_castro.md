@@ -74,7 +74,7 @@ Led R&D and software engineering for industrial automation and high-availability
 
 ---
 
-### Fundação Bradesco
+### Fundaçao Bradesco
 **Technical Instructor** | Mar 2002 – Oct 2011
 
 Taught electronics, programming, industrial automation, and networking in a technical education program.

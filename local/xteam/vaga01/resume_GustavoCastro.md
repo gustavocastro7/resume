@@ -44,7 +44,7 @@ Highly accomplished and results-driven Senior Engineering Manager and R&D Leader
 * **Project Management:** Oversaw full-lifecycle projects for network infrastructure routers, managing budgets, staff, and pilot production batches.
 * **Architecture Definition:** Defined the smart grid solution architecture for the Brazilian market, specifying protocols and high-availability frameworks.
 
-### Fundação Bradesco
+### Fundaçao Bradesco
 **Professor – Technical Course in Electronics** | Gravatai, RS
 *03/2002 – 10/2011*
 

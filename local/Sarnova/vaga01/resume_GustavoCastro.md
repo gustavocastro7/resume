@@ -36,7 +36,7 @@ Strategic and results-driven **Senior Engineering Manager** with over 25 years o
 * **Product Lifecycle:** Oversaw the development of industrial automation products (PLC), including hardware, embedded software, and industrial networks.
 * **Global Collaboration:** Partnered with international firms in India and the Czech Republic for technical training and technology transfer.
 
-### Fundação Bradesco | Professor (Electronics/Automation)
+### Fundaçao Bradesco | Professor (Electronics/Automation)
 *Gravatai, RS (Brazil) | 03/2002 – 10/2011*
 * Taught technical courses in Programmable Controllers (PLC), Industrial Networks, and Microcontrollers.
 

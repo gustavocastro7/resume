@@ -55,7 +55,7 @@ If you meet the qualifications and are excited about this opportunity, apply tod
 ===============================================================================
 
 Arquivo em Markdown: Create a resume to ATS to this job  (em ingles)
-Arquivo em Markdown: Create a cover letter to this job (em ingles) seja generico no destino da carta, inicie com "Dear Hiring Manager,", não use nomes na carta
+Arquivo em Markdown: Create a cover letter to this job (em ingles) seja generico no destino da carta, inicie com "Dear Hiring Manager,", nao use nomes na carta
 Preencha com meus dados reais do resume  (em ingles)
 Nao invente
 Nunca use meu nome todo em maiusculo, sempre solmente a primeira letra em maiusculo "Gustavo Castro"
@@ -150,7 +150,7 @@ I started as an R&D Manager and in this innovative company, where I developed se
 
 ---
 
-### Fundação Bradesco
+### Fundaçao Bradesco
 **Professor - Technical Course in Electronics** | Gravatai, RS
 *03/2002 - 10/2011*
 
@@ -186,7 +186,7 @@ I started as an R&D Manager and in this innovative company, where I developed se
   University of Vale do Sinos - UNISINOS, Sao Leopoldo, RS | *10/2006*
 
 - **Bachelor's in Computer Science**
-  University of Vale do Itajaí - UNIVALI, Itajai, SC | *07/1995*
+  University of Vale do Itajai - UNIVALI, Itajai, SC | *07/1995*
 
 ## Languages
 

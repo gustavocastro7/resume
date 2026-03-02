@@ -3,7 +3,7 @@
 ===============================================================================
 
 Arquivo em Markdown: Create a resume to ATS to this job  (em ingles)
-Arquivo em Markdown: Create a cover letter to this job (em ingles) seja generico no destino da carta, inicie com "Dear Hiring Manager,", não use nomes na carta
+Arquivo em Markdown: Create a cover letter to this job (em ingles) seja generico no destino da carta, inicie com "Dear Hiring Manager,", nao use nomes na carta
 Preencha com meus dados reais do resume  (em ingles)
 Nao invente
 Nunca use meu nome todo em maiusculo, sempre solmente a primeira letra em maiusculo "Gustavo Castro"

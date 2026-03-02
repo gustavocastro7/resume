@@ -50,7 +50,7 @@ Highly accomplished and results-driven Senior Engineering Manager and R&D Leader
 * Directed a network infrastructure router project from specification to pilot batch production, managing budget, schedule, and team deployment.
 * Defined the software architecture and protocols for Brazil's smart grid solutions, overseeing outsourced teams and university partnerships.
 
-### Fundação Bradesco | Gravatai, RS, Brazil
+### Fundaçao Bradesco | Gravatai, RS, Brazil
 **Professor - Technical Course in Electronics**
 *03/2002 – 10/2011*
 
@@ -67,7 +67,7 @@ Highly accomplished and results-driven Senior Engineering Manager and R&D Leader
 ## Education
 
 * **MBA in Management of Technology-Based Companies**, University of Vale do Sinos (UNISINOS) | Sao Leopoldo, RS | *10/2006*
-* **Bachelor's in Computer Science**, University of Vale do Itajaí (UNIVALI) | Itajai, SC | *07/1995*
+* **Bachelor's in Computer Science**, University of Vale do Itajai (UNIVALI) | Itajai, SC | *07/1995*
 
 ## Languages & Global Exposure
 

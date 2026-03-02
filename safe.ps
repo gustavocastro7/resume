@@ -2,21 +2,21 @@
 # Script de Auditoria - PUP/Updater
 # ==============================
 # Autor: ChatGPT
-# Objetivo: Detectar resquícios de Skillbrains / Updater e possíveis PUPs
-# Modo: Somente leitura (não remove nada)
+# Objetivo: Detectar resquicios de Skillbrains / Updater e possiveis PUPs
+# Modo: Somente leitura (nao remove nada)
 # ==============================
 
 $reportPath = "$env:USERPROFILE\Desktop\Audit_Report_Skillbrains.txt"
 $csvPath    = "$env:USERPROFILE\Desktop\Audit_Report_Skillbrains.csv"
 
-# Função de escrita no relatório
+# Funçao de escrita no relatório
 function Write-Log {
     param([string]$text)
     Add-Content -Path $reportPath -Value $text
     Write-Host $text
 }
 
-# Início do relatório
+# Inicio do relatório
 "==========================" | Out-File $reportPath
 "Audit Report - Skillbrains / Updater" | Out-File $reportPath -Append
 "Date: $(Get-Date)" | Out-File $reportPath -Append
@@ -26,7 +26,7 @@ function Write-Log {
 # ==============================
 # 1) Verificar pasta
 # ==============================
-Write-Log "1) Verificação de pastas comuns"
+Write-Log "1) Verificaçao de pastas comuns"
 $paths = @(
     "C:\Program Files (x86)\Skillbrains",
     "C:\Program Files\Skillbrains",
@@ -44,7 +44,7 @@ foreach ($p in $paths) {
 # ==============================
 # 2) Registro (HKCU e HKLM)
 # ==============================
-Write-Log "2) Verificação no Registro"
+Write-Log "2) Verificaçao no Registro"
 
 $regKeys = @(
     "HKCU:\Software\Skillbrains",
@@ -68,7 +68,7 @@ foreach ($k in $regKeys) {
 # ==============================
 # 3) Run keys (detalhado)
 # ==============================
-Write-Log "3) Conteúdo de Run keys (possíveis persistências)"
+Write-Log "3) Conteúdo de Run keys (possiveis persistências)"
 
 $runKeys = @(
     "HKCU:\Software\Microsoft\Windows\CurrentVersion\Run",
@@ -113,9 +113,9 @@ Format-List | Out-String | Out-File $reportPath -Append
 "" | Out-File $reportPath -Append
 
 # ==============================
-# 6) Inicialização (Startup)
+# 6) Inicializaçao (Startup)
 # ==============================
-Write-Log "6) Inicialização automática (Startup)"
+Write-Log "6) Inicializaçao automática (Startup)"
 
 Get-CimInstance Win32_StartupCommand |
 Where-Object { $_.Command -match "skill|updater|Skillbrains" } |
@@ -137,7 +137,7 @@ Format-List | Out-String | Out-File $reportPath -Append
 "" | Out-File $reportPath -Append
 
 # ==============================
-# 8) Policies do Chrome/Edge/Vivaldi (se disponíveis)
+# 8) Policies do Chrome/Edge/Vivaldi (se disponiveis)
 # ==============================
 Write-Log "8) Policies (Chrome/Edge/Vivaldi)"
 
@@ -153,7 +153,7 @@ Write-Log $edgePolicy
 "" | Out-File $reportPath -Append
 
 # ==============================
-# 9) Saída final
+# 9) Saida final
 # ==============================
 Write-Log "=========================="
 Write-Log "Relatório salvo em: $reportPath"

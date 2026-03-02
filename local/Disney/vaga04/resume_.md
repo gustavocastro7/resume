@@ -55,7 +55,7 @@ Strategic and results-driven Senior Engineering Leader with over 25 years of exp
 ## Education
 
 * **MBA in Management of Technology-Based Companies** | University of Vale do Sinos (UNISINOS)
-* **Bachelor’s Degree in Computer Science** | University of Vale do Itajaí (UNIVALI)
+* **Bachelor’s Degree in Computer Science** | University of Vale do Itajai (UNIVALI)
 
 ## Skills & Languages
 

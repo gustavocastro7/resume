@@ -21,7 +21,7 @@ body {
     padding: 0;
 }
 
-/* Títulos com melhor hierarquia */
+/* Titulos com melhor hierarquia */
 h1, h2, h3 {
     font-family: 'Roboto', sans-serif;
     color: var(--h-color);
@@ -71,7 +71,7 @@ li {
     margin-bottom: 3px;
 }
 
-/* Estilização de Datas e Cargos (Markdown: **Cargo** \n _Data_) */
+/* Estilizaçao de Datas e Cargos (Markdown: **Cargo** \n _Data_) */
 strong {
     font-weight: 500;
     color: #000;
@@ -92,7 +92,7 @@ a {
 .container {
     max-width: 800px;
     margin: 0 auto;
-    padding: 40px; /* Margem padrão de impressão */
+    padding: 40px; /* Margem padrao de impressao */
 }
 
 /* Melhoria para Contact Info */

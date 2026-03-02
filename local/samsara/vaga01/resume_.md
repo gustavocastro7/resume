@@ -76,7 +76,7 @@ Extensive experience delivering telemetry platforms, AI systems, industrial IoT 
 - Delivered fault-tolerant industrial automation platforms and programmable controller systems.
 - Led international technical collaborations with engineering teams in Europe and Asia.
 
-### Fundação Bradesco — Technical Instructor
+### Fundaçao Bradesco — Technical Instructor
 **03/2002 – 10/2011**
 
 - Instructor in electronics, networking, industrial automation, programming, and microcontrollers.

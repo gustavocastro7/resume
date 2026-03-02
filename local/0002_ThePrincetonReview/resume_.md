@@ -85,7 +85,7 @@ Engineering Manager with 25+ years of experience in software engineering and R&D
 ---
 
 ### ALTUS SA
-**R&D Manager / Software Development Manager** — São Leopoldo, RS, Brazil
+**R&D Manager / Software Development Manager** — Sao Leopoldo, RS, Brazil
 **Aug 1999 – Jul 2010**
 
 - Managed R&D department, including budget, staffing, and supplier negotiations.
@@ -95,8 +95,8 @@ Engineering Manager with 25+ years of experience in software engineering and R&D
 
 ---
 
-### Fundação Bradesco
-**Technical Instructor (Electronics & Computing)** — Gravataí, RS, Brazil
+### Fundaçao Bradesco
+**Technical Instructor (Electronics & Computing)** — Gravatai, RS, Brazil
 **Mar 2002 – Oct 2011**
 
 - Taught technical courses in Informatics, Microcontrollers, Industrial Automation, Networks, and PLCs.

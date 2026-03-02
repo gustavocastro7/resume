@@ -5,7 +5,7 @@ https://www.onwardsearch.com/jobs/job/81271-software-engineer-rochester-minnesot
 ===============================================================================
 
 Arquivo em Markdown: Create a resume to ATS to this job  (em ingles)
-Arquivo em Markdown: Create a cover letter to this job (em ingles) seja generico no destino da carta, inicie com "Dear Hiring Manager,", não use nomes na carta
+Arquivo em Markdown: Create a cover letter to this job (em ingles) seja generico no destino da carta, inicie com "Dear Hiring Manager,", nao use nomes na carta
 Preencha com meus dados reais do resume  (em ingles)
 Nao invente
 Nunca use meu nome todo em maiusculo, sempre solmente a primeira letra em maiusculo "Gustavo Castro"
@@ -66,7 +66,8 @@ Canoas, RS, Brazil
 
 ### Ponfac SA
 Porto Alegre, RS, Brazil  
-**R&D Manager** • *10/2019 – 07/2023*
+**R&D Manager**
+*10/2019 – 07/2023*
 
 - Managed R&D, development, customer service, and IoT initiatives.
 - Led innovation projects for computer vision and robotics; defined technologies and software architecture.
@@ -80,7 +81,8 @@ Porto Alegre, RS, Brazil
 
 ### Elo Sistemas Eletrônicos SA
 Porto Alegre, RS, Brazil  
-**Software Development Manager** • *08/2010 – 09/2019*
+**Software Development Manager**
+*08/2010 – 09/2019*
 
 - Managed software teams and process improvements; oversaw internal and outsourced development.
 - Directed projects including remote reading servers, alarms, and automatic registration for Smart Grid.
@@ -92,17 +94,19 @@ Porto Alegre, RS, Brazil
 
 ---
 
-### Fundação Bradesco
-Gravataí, RS, Brazil  
-**Professor – Technical Course in Electronics** • *03/2002 – 10/2011*
+### Fundaçao Bradesco
+Gravatai, RS, Brazil  
+**Professor – Technical Course in Electronics**
+*03/2002 – 10/2011*
 
 - Taught: Introduction to Informatics; Microcontrollers and Interfaces; Organization and Standards; Programmable Controllers; Local Area Networks; Industrial Automation; Industrial Networks.
 
 ---
 
 ### ALTUS SA
-São Leopoldo, RS, Brazil  
-**R&D Manager** • *08/1999 – 07/2010*
+Sao Leopoldo, RS, Brazil  
+**R&D Manager**
+*08/1999 – 07/2010*
 
 - Led high‑availability and fault‑tolerant systems for mission‑critical industrial automation (e.g., oil platforms).
 - Managed R&D budgets, hiring, training, and supplier negotiations (national/international).
@@ -123,10 +127,14 @@ São Leopoldo, RS, Brazil
 ## Education
 
 - **MBA in Management of Technology‑Based Companies**  
-  University of Vale do Sinos (UNISINOS) • São Leopoldo, RS, Brazil • *03/2005 – 10/2006*
+  University of Vale do Sinos (UNISINOS)
+  Sao Leopoldo, RS, Brazil
+  *03/2005 – 10/2006*
 
 - **Bachelor's in Computer Science**  
-  University of Vale do Itajaí (UNIVALI) • Itajaí, SC, Brazil • *02/1990 – 07/1995*
+  University of Vale do Itajai (UNIVALI)
+  Itajai, SC, Brazil
+  *02/1990 – 07/1995*
 
 ## Languages
 

@@ -73,8 +73,8 @@ Porto Alegre, RS, Brazil
 
 ---
 
-### Fundação Bradesco
-Gravataí, RS, Brazil  
+### Fundaçao Bradesco
+Gravatai, RS, Brazil  
 **Professor – Technical Course in Electronics**
 *03/2002 – 10/2011*
 
@@ -83,7 +83,7 @@ Gravataí, RS, Brazil
 ---
 
 ### ALTUS SA
-São Leopoldo, RS, Brazil  
+Sao Leopoldo, RS, Brazil  
 **R&D Manager**
 *08/1999 – 07/2010*
 
@@ -107,12 +107,12 @@ São Leopoldo, RS, Brazil
 
 - **MBA in Management of Technology‑Based Companies**  
   University of Vale do Sinos (UNISINOS)
-  São Leopoldo, RS, Brazil
+  Sao Leopoldo, RS, Brazil
   *03/2005 – 10/2006*
 
 - **Bachelor's in Computer Science**  
-  University of Vale do Itajaí (UNIVALI)
-  Itajaí, SC, Brazil
+  University of Vale do Itajai (UNIVALI)
+  Itajai, SC, Brazil
   *02/1990 – 07/1995*
 
 ## Languages

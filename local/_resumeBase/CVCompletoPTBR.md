@@ -1,8 +1,8 @@
 # Gustavo Castro
 
-**Gerente Sênior de Engenharia e Líder de P&D**
+**Gerente Sênior de Engenharia e Lider de P&D**
 
-- **Localização:** Orlando, FL / Canoas, RS  
+- **Localizaçao:** Orlando, FL / Canoas, RS  
 - **Telefone:** +1 352 349 4910  
 - **Email:** gustavocastro73@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/gustavocvcastro/
@@ -11,11 +11,11 @@
 
 ## Resumo
 
-Sou um Gerente Sênior de Engenharia e Líder de P&D altamente orientado a resultados, com 25 anos de experiência na construção e escalabilidade de equipes multidisciplinares de alta performance. Especialista na entrega de soluções inovadoras de software e hardware, desde a concepção até o lançamento, com foco em SaaS, Inteligência Artificial, Visão Computacional e IoT.
+Sou um Gerente Sênior de Engenharia e Lider de P&D altamente orientado a resultados, com 25 anos de experiência na construçao e escalabilidade de equipes multidisciplinares de alta performance. Especialista na entrega de soluções inovadoras de software e hardware, desde a concepçao até o lançamento, com foco em SaaS, Inteligência Artificial, Visao Computacional e IoT.
 
-Possuo histórico comprovado de crescimento organizacional, expandindo equipes de engenharia de 15 para 38 profissionais em um ano e assumindo a responsabilidade por portfólios completos de produtos de software. Liderei iniciativas globais envolvendo algoritmos avançados de IA, sistemas No-Code de visão computacional e reestruturações de plataforma com foco em infraestrutura, modularização e experiência do usuário.
+Possuo histórico comprovado de crescimento organizacional, expandindo equipes de engenharia de 15 para 38 profissionais em um ano e assumindo a responsabilidade por portfólios completos de produtos de software. Liderei iniciativas globais envolvendo algoritmos avançados de IA, sistemas No-Code de visao computacional e reestruturações de plataforma com foco em infraestrutura, modularizaçao e experiência do usuário.
 
-Atuo alinhando estratégia técnica aos objetivos de negócio, promovendo cultura de ownership, responsabilidade e melhoria contínua.
+Atuo alinhando estratégia técnica aos objetivos de negócio, promovendo cultura de ownership, responsabilidade e melhoria continua.
 
 ---
 
@@ -25,33 +25,33 @@ Atuo alinhando estratégia técnica aos objetivos de negócio, promovendo cultur
 **Gerente de Engenharia**  
 *Canoas, RS | 11/2023 - Atual*
 
-#### Liderança e Gestão
+#### Liderança e Gestao
 - Liderança de equipe multidisciplinar (backend, frontend, hardware, ciência de dados, inteligência artificial e qualidade de software).
-- Gestão da equipe de pesquisa em parceria com a FURG.
+- Gestao da equipe de pesquisa em parceria com a FURG.
 - Garantia de entregas dentro de prazos com qualidade e aderência a metodologias ágeis.
 
 #### Desenvolvimento e Plataforma
 - Responsável pelo ciclo completo de desenvolvimento (SDLC).
-- Evolução contínua da plataforma SaaS.
-- Integração entre hardware e software.
-- Planejamento e implantação de novos componentes da plataforma.
+- Evoluçao continua da plataforma SaaS.
+- Integraçao entre hardware e software.
+- Planejamento e implantaçao de novos componentes da plataforma.
 
 #### Dados e Segurança
-- Gestão e análise de dados de telemetria.
-- Implementação de práticas de segurança e conformidade regulatória.
+- Gestao e análise de dados de telemetria.
+- Implementaçao de práticas de segurança e conformidade regulatória.
 
-#### Inovação e Projetos
-- Coordenação de projetos financiados de inovação.
-- Liderança de reestruturação de plataforma (infraestrutura e modularização).
+#### Inovaçao e Projetos
+- Coordenaçao de projetos financiados de inovaçao.
+- Liderança de reestruturaçao de plataforma (infraestrutura e modularizaçao).
 
 #### Principais Resultados
 - Crescimento da equipe de 15 para 38 colaboradores em 1 ano.
-- Gestão de produtos como:
+- Gestao de produtos como:
   - Câmeras de Segurança com IA
-  - Telemetria para veículos pesados
+  - Telemetria para veiculos pesados
   - Plataforma de análise de dados
   - Soluções mobile
-- Atuação complementar como QA, PO e Gerente de Projetos.
+- Atuaçao complementar como QA, PO e Gerente de Projetos.
 
 ---
 
@@ -59,15 +59,15 @@ Atuo alinhando estratégia técnica aos objetivos de negócio, promovendo cultur
 **Gerente de P&D**  
 *Porto Alegre, RS | 10/2019 - 07/2023*
 
-- Gestão de equipes de P&D, desenvolvimento e IoT.
-- Projetos de visão computacional, inspeção visual e robótica.
-- Especificação de arquitetura e novas tecnologias.
-- Coordenação de projetos junto à FINEP.
+- Gestao de equipes de P&D, desenvolvimento e IoT.
+- Projetos de visao computacional, inspeçao visual e robótica.
+- Especificaçao de arquitetura e novas tecnologias.
+- Coordenaçao de projetos junto à FINEP.
 
 #### Principais Resultados
-- Desenvolvimento de algoritmo de estimativa de peso suíno via IA.
-- Criação de sistema No-Code para projetos de visão computacional (IDE com SDK proprietário, OpenCV e IA).
-- Solução de granulometria de tabaco com IA para melhoria de processo.
+- Desenvolvimento de algoritmo de estimativa de peso suino via IA.
+- Criaçao de sistema No-Code para projetos de visao computacional (IDE com SDK proprietário, OpenCV e IA).
+- Soluçao de granulometria de tabaco com IA para melhoria de processo.
 
 ---
 
@@ -75,60 +75,89 @@ Atuo alinhando estratégia técnica aos objetivos de negócio, promovendo cultur
 **Gerente de Desenvolvimento de Software**  
 *Porto Alegre, RS | 08/2010 - 09/2019*
 
-- Gestão de equipes e melhoria de processos.
-- Gestão de contratos, relatórios, orçamento e escopo.
-- Especificação de tecnologias e arquitetura.
+- Gestao de equipes e melhoria de processos.
+- Gestao de contratos, relatórios, orçamento e escopo.
+- Especificaçao de tecnologias e arquitetura.
 
 #### Projetos Relevantes
 
 **Smart Grid**
-- Integração de infraestrutura para leitura remota de medidores.
-- Gestão de cronograma, orçamento e escopo.
-- Definição da arquitetura da solução para o Brasil.
+- Integraçao de infraestrutura para leitura remota de medidores.
+- Gestao de cronograma, orçamento e escopo.
+- Definiçao da arquitetura da soluçao para o Brasil.
 
 **Router para Medidores**
 - Desenvolvimento de roteador para acesso a medidores.
-- Gestão de produto, equipe, orçamento e produção piloto.
+- Gestao de produto, equipe, orçamento e produçao piloto.
 
 ---
 
-### Fundação Bradesco S/A  
-**Professor do Curso Técnico de Eletrônica (ênfase em Automação Industrial)**  
-*Gravataí, RS*
+### Fundaçao Bradesco S/A  
+**Professor do Curso Técnico de Eletrônica (ênfase em Automaçao Industrial)**  
+*Gravatai, RS*
 *03/2002 - 10/2011*
 
 Cadeiras lecionadas:
-- Introdução à Informática
+- Introduçao à Informática
 - Microcontroladores e Interfaces
-- Organização e Normas
+- Organizaçao e Normas
 - Controladores Programáveis
 - Redes Locais
-- Automação Industrial
+- Automaçao Industrial
 - Redes Industriais
 
 ---
 
 ### Altus S/A  
 **Gerente de Pesquisa e Desenvolvimento**  
-*São Leopoldo, RS | 08/1999 - 07/2010*
+*Sao Leopoldo, RS | 08/1999 - 07/2010*
 
-- Gestão do setor de P&D: desenvolvimento, inovação, orçamento, equipe, contratações, treinamentos e negociação com fornecedores nacionais e internacionais.
-- Gestão das equipes: software embarcado, software de sistemas desktop, teste de produtos e coordenadores.
-- Gestão de desenvolvimento de software: gestão da equipe e melhoria de processos.
-- Especificação de novas tecnologias e arquitetura de software.
-- Projetos de sistemas de tolerância a falhas em plataformas de petróleo e controle de automação; gestão do portfólio, orçamento, cronograma, equipes de engenharia e produção; acompanhamento de instalação.
-- Gerência de projetos de produtos de inovação: controladores programáveis (hardware, software, teste) e software de programação.
+- Gestao do setor de P&D: desenvolvimento, inovaçao, orçamento, equipe, contratações, treinamentos e negociaçao com fornecedores nacionais e internacionais.
+- Gestao das equipes: software embarcado, software de sistemas desktop, teste de produtos e coordenadores.
+- Gestao de desenvolvimento de software: gestao da equipe e melhoria de processos.
+- Especificaçao de novas tecnologias e arquitetura de software.
+- Projetos de sistemas de tolerância a falhas em plataformas de petróleo e controle de automaçao; gestao do portfólio, orçamento, cronograma, equipes de engenharia e produçao; acompanhamento de instalaçao.
+- Gerência de projetos de produtos de inovaçao: controladores programáveis (hardware, software, teste) e software de programaçao.
 - Orçamento e análise de viabilidade de projetos.
-- Participação em eventos de P&D&I e feiras nacionais e internacionais.
+- Participaçao em eventos de P&D&I e feiras nacionais e internacionais.
 - Desenvolvimento com empresas parceiras da Índia e da República Tcheca; reuniões técnicas e treinamentos de novas tecnologias.
 - Relacionamento com instituições de ensino para desenvolvimento de projetos fomentados.
 - Desenvolvimento de sistemas embarcados e alta disponibilidade.
 - Desenvolvimento de controladores programáveis (hardware e software).
 
 #### Projetos Relevantes
-- Nexto (CLP de alto desempenho): arquitetura de CPU Linux, integração IEC 61131, consórcio Brasil–Índia–Rep. Tcheca.
-- Sistema redundante para plataformas de petróleo: tolerância a falhas com sincronização ativa/passiva.
-- Controlador de geradores (Stemac): redução de custos com substituição de solução importada.
+- Nexto (CLP de alto desempenho): arquitetura de CPU Linux, integraçao IEC 61131, consórcio Brasil–Índia–Rep. Tcheca.
+- Sistema redundante para plataformas de petróleo: tolerância a falhas com sincronizaçao ativa/passiva.
+- Controlador de geradores (Stemac): reduçao de custos com substituiçao de soluçao importada.
+
+#### Principais Projetos – Altus
+
+- CLP: Controlador Lógico Programável responsável pelo controle de automaçao industrial
+
+##### Controlador de Gerador de Energia (Stemac)
+- Descriçao: O Brasil passava por uma onda de apagões, impulsionando as vendas de geradores. Utilizado em indústrias (economia nos horários de pico), prédios/condominios e shopping centers (economia e contingência) e hospitais/clinicas (garantia de energia). O controlador é responsável por acionamento, monitoramento, alarmes de falta de energia e cálculos de geraçao. A Altus desenvolveu o equipamento de controle.
+- Diferencial/Inovaçao: Reduçao de custo para a Stemac ao substituir o importado (DeepSea) pela soluçao da Altus.
+- Funçao: Gestao da equipe de desenvolvimento de software.
+- Atividades: Especificaçao da arquitetura do software; gestao da equipe, atividades e cronograma.
+
+##### HardFlex — Sistema de alteraçao de funções eletrônicas via software programável
+- Descriçao: Linha de CLPs de baixo custo com possibilidade de alterar o comportamento do hardware por atualizaçao de software.
+- Diferencial/Inovaçao: Permite comportamentos diferentes de parte do hardware sem substituiçao do equipamento; originou pedido de patente ao diretor da empresa; concebido por mim e um colega.
+- Funçao: Gestao da equipe de desenvolvimento de software.
+- Atividades: Definiçao da inovaçao que gerou a patente; gestao da equipe, atividades e cronograma.
+
+##### Nexto — CLP de grande porte para alta velocidade e plataformas de petróleo
+- Descriçao: Desenvolvido por consórcio Altus (Brasil), Messung (Índia) e Teco (República Tcheca). A Altus foi responsável pelo software da CPU principal e pela comunicaçao com os módulos do barramento.
+- Diferencial/Inovaçao: CPU Linux com suporte às 5 linguagens IEC 61131; até 20x mais rápido que linhas anteriores.
+- Funçao: Gestao da equipe de desenvolvimento de software.
+- Atividades: Participaçao nas especificações definidas pelas empresas do consórcio; gestao da equipe, atividades e cronograma.
+- Observaçao: Demandou viagens internacionais em 2008, 2009 e 2010.
+
+##### CLP de grande porte redundante para plataformas de petróleo
+- Descriçao: Implementaçao de redundância com dois CLPs (ativo/passivo) operando sincronizados para garantir continuidade da automaçao em caso de falha.
+- Diferencial/Inovaçao: Alternativa nacional ao concorrente importado (Siemens).
+- Funçao: Gestao da equipe de desenvolvimento de software.
+- Atividades: Gestao da equipe, atividades e cronograma; criaçao do protocolo de redundância.
 
 ---
 
@@ -137,14 +166,14 @@ Cadeiras lecionadas:
 ### Linguagens
 C++, C#, Python, Java, SQL, Next.js
 
-### Domínios
+### Dominios
 Software Embarcado  
-Visão Computacional  
+Visao Computacional  
 Processamento de Imagens  
 Machine Learning  
 IoT  
 SaaS  
-Automação Industrial  
+Automaçao Industrial  
 
 ### Ferramentas e Tecnologias
 Power BI  
@@ -156,19 +185,19 @@ PLC
 MQTT  
 Protocolos Industriais  
 
-### Gestão
+### Gestao
 Engenharia de Software  
 Desenvolvimento de Produto  
-Gestão de Projetos  
+Gestao de Projetos  
 
 ---
 
-## Formação
+## Formaçao
 
-**MBA em Gestão de Empresas de Base Tecnológica**  
+**MBA em Gestao de Empresas de Base Tecnológica**  
 UNISINOS | 10/2006  
 
-**Bacharelado em Ciência da Computação**  
+**Bacharelado em Ciência da Computaçao**  
 UNIVALI | 07/1995  
 
 ---
@@ -183,9 +212,9 @@ UNIVALI | 07/1995
 
 ## Experiência Internacional
 
-- 2015 – Testes de integração com medidores remotos – EUA  
+- 2015 – Testes de integraçao com medidores remotos – EUA  
 - 2009 – Hannover Fair – Alemanha  
-- 2009 – Especificação técnica de projeto – Índia  
+- 2009 – Especificaçao técnica de projeto – Índia  
 - 2008 – Treinamento técnico – Alemanha  
 - 2008 – Visita a fornecedores – China  
 - 2008–2011 – Reuniões técnicas com Índia, República Tcheca e Alemanha  

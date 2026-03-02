@@ -45,7 +45,7 @@ Highly accomplished Senior Engineering Manager with 25 years of experience build
 
 ## Education
 * **MBA in Management of Technology-Based Companies** | University of Vale do Sinos - UNISINOS
-* **Bachelor’s in Computer Science** | University of Vale do Itajaí - UNIVALI
+* **Bachelor’s in Computer Science** | University of Vale do Itajai - UNIVALI
 
 ## Technical Skills & Languages
 * **Languages/Frameworks:** C++, C#, Python, Node.js, Java, Next.js, SQL, NoSQL.
