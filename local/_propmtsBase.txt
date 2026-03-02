@@ -1,0 +1,19 @@
+
+
+===============================================================================
+
+Arquivo em Markdown: Create a resume to ATS to this job  (em ingles)
+Arquivo em Markdown: Create a cover letter to this job (em ingles) seja generico no destino da carta, inicie com "Dear Hiring Manager,", não use nomes na carta
+Preencha com meus dados reais do resume  (em ingles)
+Nao invente
+Nunca use meu nome todo em maiusculo, sempre solmente a primeira letra em maiusculo "Gustavo Castro"
+Destaque no CV ATS os pontos importantes
+
+Calcule a taxa de aderencia da vaga ao ATS para mercado americano (USA) em relacao ao meu resume
+Calcule a taxa de aderencia do mandatorio para a vaga ao ATS para mercado americano (USA) em relacao ao meu resume
+Calcule a taxa de aderencia das fucoes acoes para a vaga ao ATS para mercado americano (USA) em relacao ao meu resume
+
+===============================================================================
+
+Meu CV:
+

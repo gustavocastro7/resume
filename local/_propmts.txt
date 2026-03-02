@@ -1,15 +1,21 @@
 Vaga:
 
-https://careers.sarnova.com/jobs/5214?lang=en-us
+[link]
+
+===============================================================================
 
 Arquivo em Markdown: Create a resume to ATS to this job  (em ingles)
 Arquivo em Markdown: Create a cover letter to this job (em ingles) seja generico no destino da carta, inicie com "Dear Hiring Manager,", não use nomes na carta
 Preencha com meus dados reais do resume  (em ingles)
 Nao invente
-Calcule a taxa de aderencia ao ATS para mercado americano (USA)
 Nunca use meu nome todo em maiusculo, sempre solmente a primeira letra em maiusculo "Gustavo Castro"
 Destaque no CV ATS os pontos importantes
 
+Calcule a taxa de aderencia da vaga ao ATS para mercado americano (USA) em relacao ao meu resume
+Calcule a taxa de aderencia do mandatorio para a vaga ao ATS para mercado americano (USA) em relacao ao meu resume
+Calcule a taxa de aderencia das fucoes acoes para a vaga ao ATS para mercado americano (USA) em relacao ao meu resume
+
+===============================================================================
 
 Meu CV:
 
@@ -146,3 +152,5 @@ I started as an R&D Manager and in this innovative company, where I developed se
 - **2008:** 10 days for training, Germany.
 - **2008:** 10 days visiting raw material suppliers, China.
 - **2008 - 2011:** Meetings in Brazil with technicians and executives from India, Czech Republic and Germany and teleconferences every 15 days.
+
+

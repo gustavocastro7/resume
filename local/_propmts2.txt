@@ -1,0 +1,14 @@
+find jobs with criteries:
+- orlando area
+- manager or senior level
+- iot or embeeded devices
+- technology
+- industys as medical, fleet, industrial automation
+
+check:
+- if the job oportunit is open
+- if the job oportunit is on site company
+
+show:
+- site company
+- apply link of job

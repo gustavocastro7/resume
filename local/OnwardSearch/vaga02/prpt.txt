@@ -1,0 +1,144 @@
+Vaga:
+https://www.onwardsearch.com/jobs/job/81271-software-engineer-rochester-minnesota/?_gl
+
+
+===============================================================================
+
+Arquivo em Markdown: Create a resume to ATS to this job  (em ingles)
+Arquivo em Markdown: Create a cover letter to this job (em ingles) seja generico no destino da carta, inicie com "Dear Hiring Manager,", não use nomes na carta
+Preencha com meus dados reais do resume  (em ingles)
+Nao invente
+Nunca use meu nome todo em maiusculo, sempre solmente a primeira letra em maiusculo "Gustavo Castro"
+Destaque no CV ATS os pontos importantes
+
+Calcule a taxa de aderencia da vaga ao ATS para mercado americano (USA) em relacao ao meu resume
+Calcule a taxa de aderencia do mandatorio para a vaga ao ATS para mercado americano (USA) em relacao ao meu resume
+Calcule a taxa de aderencia das fucoes acoes para a vaga ao ATS para mercado americano (USA) em relacao ao meu resume
+
+===============================================================================
+
+Meu CV:
+
+# Gustavo Castro
+
+**Phone:** +1 352 349 4910  
+**Email:** gustavocastro73@gmail.com  
+**Location:** Orlando, FL, USA
+**LinkedIn:** [linkedin.com/in/gustavocvcastro](https://www.linkedin.com/in/gustavocvcastro/)
+
+## Summary
+
+Senior Engineering Manager and R&D leader with 25+ years building and scaling high‑performing, cross‑functional teams to deliver software and hardware from concept to launch. Deep specialization in SaaS, AI/Computer Vision, and IoT. Track record includes growing a single product team from 15 to 38 engineers in one year and later overseeing an entire software portfolio. Led development of advanced AI algorithms, a No‑Code computer vision system, and platform restructuring to improve infrastructure, modularity, and user experience. International execution across USA, Germany, China, and India. Passionate about aligning technical strategy to business goals while developing people, culture, and process for measurable impact.
+
+## Experience
+
+### Creare Sistemas SA
+Canoas, RS, Brazil  
+**Software Engineering Manager**
+*11/2023 – 02/2026*
+
+**Team Leadership and Management**
+- Led engineers across backend, frontend, hardware, and data science; drove collaboration and on‑time delivery.
+- Managed research partnership with FURG to foster applied innovation in advanced technologies.
+
+**Development and Implementation**
+- Owned full software lifecycle with standards, best practices, and agile methodologies.
+- Delivered new SaaS features and enhancements to improve customer satisfaction and competitiveness.
+- Led hardware teams to ensure seamless integration with the software platform.
+- Planned, developed, and deployed modular components aligned to stakeholder needs.
+
+**Cloud, Data, and Security**
+- Orchestrated cloud infrastructure (80% Oracle Cloud OCI, 20% AWS).
+- Managed and analyzed telemetry data to enhance reliability and security.
+- Implemented security practices to protect sensitive data and meet compliance requirements.
+
+**Project, Product, and Integration**
+- Coordinated funded innovation projects to research and validate new technologies.
+- Unified products and solutions across the company for cohesive platform strategy.
+- Drove platform restructuring to improve infrastructure, component modularization, and the user interface.
+
+**Achievements**
+- Expanded scope from 15 to 38 team members within one year.
+- Oversaw all software products, including Safety AI Cameras, heavy‑vehicle telemetry (transport and agribusiness), data generation for analytics, and mobile solutions.
+- Contributed as QA, Product Owner, and Project Manager within the development support team.
+
+---
+
+### Ponfac SA
+Porto Alegre, RS, Brazil  
+**R&D Manager** • *10/2019 – 07/2023*
+
+- Managed R&D, development, customer service, and IoT initiatives.
+- Led innovation projects for computer vision and robotics; defined technologies and software architecture.
+- Coordinated the FINEP‑funded innovation program.
+
+**Accomplishments**
+- Created an area‑to‑weight conversion algorithm to estimate pig weights using AI‑processed images and animal metadata (age, length, height, sex).
+- Designed and developed a No‑Code system for computer vision projects—an IDE integrating a proprietary SDK, OpenCV, and AI solutions into a single platform.
+
+---
+
+### Elo Sistemas Eletrônicos SA
+Porto Alegre, RS, Brazil  
+**Software Development Manager** • *08/2010 – 09/2019*
+
+- Managed software teams and process improvements; oversaw internal and outsourced development.
+- Directed projects including remote reading servers, alarms, and automatic registration for Smart Grid.
+- Produced financial/physical reports, handled contracts, payments, and scope definition.
+- Specified protocols and software architecture for the Brazilian Smart Grid solution.
+- Led Smart Grid system integration to access consumer measurement data (industrial/commercial/residential).
+- Managed a network infrastructure router project for meter access, from specs and staffing to pilot production.
+- Collaborated with educational institutions on sponsored R&D projects.
+
+---
+
+### Fundação Bradesco
+Gravataí, RS, Brazil  
+**Professor – Technical Course in Electronics** • *03/2002 – 10/2011*
+
+- Taught: Introduction to Informatics; Microcontrollers and Interfaces; Organization and Standards; Programmable Controllers; Local Area Networks; Industrial Automation; Industrial Networks.
+
+---
+
+### ALTUS SA
+São Leopoldo, RS, Brazil  
+**R&D Manager** • *08/1999 – 07/2010*
+
+- Led high‑availability and fault‑tolerant systems for mission‑critical industrial automation (e.g., oil platforms).
+- Managed R&D budgets, hiring, training, and supplier negotiations (national/international).
+- Ran a Software Factory: team leadership and continuous process improvement.
+- Directed a 25‑person team building industrial automation products and systems (embedded software, networks, high‑performance systems, and high availability).
+- Owned programmable controller product lines (hardware, firmware, testing) and programming software.
+- Executed project feasibility analyses and budgeting; participated in R&D fairs/events.
+- Collaborated with partners in India and the Czech Republic (technical meetings and training).
+
+## Skills
+
+- **Core & Management:** Software Engineering, Product Development, Project Management, SaaS, Software Architecture.
+- **Languages & Frameworks:** C++, C#, Python, Java, Node.js, Next.js, SQL, NoSQL.
+- **AI & Data:** Machine Learning, Computer Vision, Image Processing, OpenCV, AI Smart Cam, Power BI.
+- **IoT & Industrial:** IoT, MQTT, TCP/IP, PLC, Industrial Protocols, Telemetry, Hardware Integration.
+- **Tools & Process:** Git, Jira, Microsoft Project, Excel, PowerPoint.
+
+## Education
+
+- **MBA in Management of Technology‑Based Companies**  
+  University of Vale do Sinos (UNISINOS) • São Leopoldo, RS, Brazil • *03/2005 – 10/2006*
+
+- **Bachelor's in Computer Science**  
+  University of Vale do Itajaí (UNIVALI) • Itajaí, SC, Brazil • *02/1990 – 07/1995*
+
+## Languages
+
+- Portuguese: Native
+- English: Fluent/Professional
+- Spanish: Intermediate/Conversational
+
+## International Experience
+
+- 2015: USA – Integration tests between management system and remote energy meters.
+- 2009: Germany – Hannover Fair.
+- 2009: India – 20‑day technical specification meetings with development partner.
+- 2008: Germany – 10‑day training.
+- 2008: China – 10‑day supplier visits.
+- 2008–2011: Regular meetings and biweekly teleconferences with teams from India, Czech Republic, and Germany.

@@ -1,133 +1,131 @@
 # Gustavo Castro
 
-**Phone:** +13523494910
-**Email:** gustavocastro73@gmail.com
-**Location:** Orlando, FL
-**LinkedIn:** [linkedin.com/in/gustavocvcastro/](https://www.linkedin.com/in/gustavocvcastro/)
+**Phone:** +1 352 349 4910  
+**Email:** gustavocastro73@gmail.com  
+**Location:** Orlando, FL, USA
+**LinkedIn:** [linkedin.com/in/gustavocvcastro](https://www.linkedin.com/in/gustavocvcastro/)
 
 ## Summary
 
-I am a highly accomplished and results-driven Senior Engineering Manager and R&D Leader with a distinguished 25-year track record in building and scaling high-performing, cross-functional teams. My expertise lies in delivering innovative software and hardware solutions from concept to launch, with a deep specialization in SaaS, AI/Computer Vision, and IoT technologies.
-
-Throughout my career, I've demonstrated a proven ability to significantly grow engineering organizations, notably expanding a single product team from 15 to 38 engineers in one year and later overseeing an entire company's software portfolio. I've led complex initiatives globally, including the development of advanced AI algorithms, No-Code computer vision systems, and critical platform restructuring to enhance infrastructure and user experience. My extensive international project experience spans the USA, Germany, and China, providing a broad perspective on global tech challenges.
-
-As a collaborative leader and technical educator, I am passionate about driving both product excellence and team growth. I thrive in environments where technology, strategy, and mentorship intersect, fostering a culture of ownership, accountability, and continuous improvement. My focus is always on aligning technical strategy with strategic business objectives to deliver measurable and significant impact for the team and the business.
+Senior Engineering Manager and R&D leader with 25+ years building and scaling high‑performing, cross‑functional teams to deliver software and hardware from concept to launch. Deep specialization in SaaS, AI/Computer Vision, and IoT. Track record includes growing a single product team from 15 to 38 engineers in one year and later overseeing an entire software portfolio. Led development of advanced AI algorithms, a No‑Code computer vision system, and platform restructuring to improve infrastructure, modularity, and user experience. International execution across USA, Germany, China, and India. Passionate about aligning technical strategy to business goals while developing people, culture, and process for measurable impact.
 
 ## Experience
 
 ### Creare Sistemas SA
-**Engineering Manager** | Canoas, RS
-*11/2023 - Present*
+Canoas, RS, Brazil  
+**Software Engineering Manager**
+*11/2023 – 02/2026*
 
-**Team Leadership and Management:**
-- Lead and manage a team of engineers across various disciplines, including backend, frontend, hardware, and data science.
-- Foster effective collaboration and communication within the team, ensuring the delivery of high-quality projects within established deadlines.
-- Manage the research team in partnership with the Federal University of Rio Grande (FURG), promoting innovation and applied research in advanced technologies.
+**Team Leadership and Management**
+- Led engineers across backend, frontend, hardware, and data science; drove collaboration and on‑time delivery.
+- Managed research partnership with FURG to foster applied innovation in advanced technologies.
 
-**Development and Implementation:**
-- Complete software development lifecycle, ensuring adherence to best practices, coding standards, and agile methodologies.
-- Drive the development and implementation of new features and enhancements for the SaaS platform, ensuring customer satisfaction and market competitiveness.
-- Lead hardware engineering teams to ensure seamless and efficient integration with the software platform, promoting system interoperability.
-- Plan, develop, and deploy new features and components for the SaaS platform, meeting market needs and stakeholder requirements.
+**Development and Implementation**
+- Owned full software lifecycle with standards, best practices, and agile methodologies.
+- Delivered new SaaS features and enhancements to improve customer satisfaction and competitiveness.
+- Led hardware teams to ensure seamless integration with the software platform.
+- Planned, developed, and deployed modular components aligned to stakeholder needs.
 
-**Data Management and Security:**
-- Manage and analyze telemetry data to enhance the security and reliability features of the SaaS platform.
-- Implement security measures and practices to protect sensitive data and ensure compliance with industry regulations and standards.
+**Cloud, Data, and Security**
+- Orchestrated cloud infrastructure (80% Oracle Cloud OCI, 20% AWS).
+- Managed and analyzed telemetry data to enhance reliability and security.
+- Implemented security practices to protect sensitive data and meet compliance requirements.
 
-**Project and Innovation Management:**
-- Coordinate and manage funded innovation projects, promoting research and development of new technologies and innovative solutions.
-- Foster a creative and innovative work environment, encouraging the team to explore new ideas and approaches to solve complex problems.
+**Project, Product, and Integration**
+- Coordinated funded innovation projects to research and validate new technologies.
+- Unified products and solutions across the company for cohesive platform strategy.
+- Drove platform restructuring to improve infrastructure, component modularization, and the user interface.
 
-**Product and Solution Integration:**
-- Responsible for unifying the company's products and solutions, ensuring cohesion and integration across different systems and platforms.
-- Lead platform restructuring initiatives, focusing on improving infrastructure, component modularization, and enhancing the user interface for a more intuitive and efficient experience.
-
-**Achievements:**
-I began my journey managing 15 employees and overseeing one product. Within just one year, I made significant progress, advancing to manage 38 team members and taking on the supervision of all the company's software products. This expanded scope of responsibility included managing Safety AI Cameras, telemetry for heavy vehicles (both for transport and agribusiness, specifically sugarcane and timber), the generation of essential data for analysis and decision-making, and the development of mobile solutions. Furthermore, I actively contributed to the development support team, performing crucial roles as QA (Quality Assurance), PO (Product Owner), and Project Manager.
+**Achievements**
+- Expanded scope from 15 to 38 team members within one year.
+- Oversaw all software products, including Safety AI Cameras, heavy‑vehicle telemetry (transport and agribusiness), data generation for analytics, and mobile solutions.
+- Contributed as QA, Product Owner, and Project Manager within the development support team.
 
 ---
 
 ### Ponfac SA
-**R&D Manager** | Porto Alegre, RS
-*10/2019 - 07/2023*
+Porto Alegre, RS, Brazil  
+**R&D Manager**
+*10/2019 – 07/2023*
 
-- Management of the R&D Team, development, customer service, IoT.
-- Innovation Project Management, new solutions for computer vision projects.
-- Visual Inspection, Computer Vision and Robotics Projects.
-- Specification of new technologies and software architecture.
-- Ponfac Innovation Project Coordinator with FINEP (Brazilian government development area).
+- Managed R&D, development, customer service, and IoT initiatives.
+- Led innovation projects for computer vision and robotics; defined technologies and software architecture.
+- Coordinated the FINEP‑funded innovation program.
 
-**Accomplishments:**
-I started as an R&D Manager and in this innovative company, where I developed several key solutions. One significant achievement was creating an area-to-weight conversion algorithm. This algorithm took superior AI-processed images of pigs and converted them into estimated weights by considering the animal's age, length, height, and sex. Additionally, I designed and developed a No-Code system for computer vision projects. This comprehensive solution included an Integrated Development Environment (IDE) that seamlessly integrated the company's proprietary SDK, OpenCV, and various AI solutions into a single, user-friendly platform.
+**Accomplishments**
+- Created an area‑to‑weight conversion algorithm to estimate pig weights using AI‑processed images and animal metadata (age, length, height, sex).
+- Designed and developed a No‑Code system for computer vision projects—an IDE integrating a proprietary SDK, OpenCV, and AI solutions into a single platform.
 
 ---
 
-### Elo Sistemas Eletronicos SA
-**Software Development Manager** | Porto Alegre, RS
-*08/2010 - 09/2019*
+### Elo Sistemas Eletrônicos SA
+Porto Alegre, RS, Brazil  
+**Software Development Manager**
+*08/2010 – 09/2019*
 
-- Software development manager: team management and process improvement.
-- Project management, issuing financial and physical reports for company management, contracts, payments, scope definition.
-- Outsourced management.
-- Specification of new technologies and software architecture.
-- Management of systems and applications development projects, remote reading server, alarms and automatic registration for Smart Grid.
-- Smart Grid Project - Integration between elements of the smart grid system for infrastructure to access measurement data in consumers: industrial, commercial and residential, managing the project, schedule, reports, scope, budget.
-- Router project: development of a network infrastructure router for access to residential, commercial and industrial meters, managing the product project, schedule, budget, staff, specifications and pilot batch production.
-- Relationship with educational institutions for the development of fostered projects.
-- Specification of protocols and software architecture for Smart Grid.
-- Definition and development of the smart grid solution architecture for Brazil.
+- Managed software teams and process improvements; oversaw internal and outsourced development.
+- Directed projects including remote reading servers, alarms, and automatic registration for Smart Grid.
+- Produced financial/physical reports, handled contracts, payments, and scope definition.
+- Specified protocols and software architecture for the Brazilian Smart Grid solution.
+- Led Smart Grid system integration to access consumer measurement data (industrial/commercial/residential).
+- Managed a network infrastructure router project for meter access, from specs and staffing to pilot production.
+- Collaborated with educational institutions on sponsored R&D projects.
 
 ---
 
 ### Fundação Bradesco
-**Professor - Technical Course in Electronics** | Gravatai, RS
-*03/2002 - 10/2011*
+Gravataí, RS, Brazil  
+**Professor – Technical Course in Electronics**
+*03/2002 – 10/2011*
 
-- **Chairs taught:** Introduction to Informatics; Microcontrollers and Interfaces; Organization and Standards; Programmable Controllers; Local Area Networks; Industrial automation; Industrial Networks.
+- Taught: Introduction to Informatics; Microcontrollers and Interfaces; Organization and Standards; Programmable Controllers; Local Area Networks; Industrial Automation; Industrial Networks.
 
 ---
 
 ### ALTUS SA
-**R&D Manager** | Sao Leopoldo, RS
-*08/1999 - 07/2010*
+São Leopoldo, RS, Brazil  
+**R&D Manager**
+*08/1999 – 07/2010*
 
-- Management of the R&D sector: budget, staff, hiring, training, negotiation with national and international suppliers.
-- Software development manager (Software Factory): team management and process improvement.
-- Management of the project team (25 people) to develop industrial automation products and systems. Performing systems projects, embedded software, networks, high performance systems, high availability, project management, schedule, budget, acquisitions, suppliers and production.
-- Specification of new technologies and software architecture.
-- Projects of fault tolerance systems in oil platforms, automation control, project management of fault tolerance products, budget, schedule, engineering team, production and installation monitoring.
-- Project management innovation products: programmable controllers (hardware, software, test), programming software.
-- Project feasibility analysis and budget.
-- Participation in R&D events, as well as national and international fairs.
-- Development with partner companies in India and the Czech Republic, where it held technical meetings and training on new technologies.
+- Led high‑availability and fault‑tolerant systems for mission‑critical industrial automation (e.g., oil platforms).
+- Managed R&D budgets, hiring, training, and supplier negotiations (national/international).
+- Ran a Software Factory: team leadership and continuous process improvement.
+- Directed a 25‑person team building industrial automation products and systems (embedded software, networks, high‑performance systems, and high availability).
+- Owned programmable controller product lines (hardware, firmware, testing) and programming software.
+- Executed project feasibility analyses and budgeting; participated in R&D fairs/events.
+- Collaborated with partners in India and the Czech Republic (technical meetings and training).
 
 ## Skills
 
-- **Core:** Software Development, Software Engineering, Product Development, SaaS, Software Architecture.
-- **Languages & Frameworks:** C++, C#, Python, Node.js, Java, Next.js, SQL, NoSQL.
+- **Core & Management:** Software Engineering, Product Development, Project Management, SaaS, Software Architecture.
+- **Languages & Frameworks:** C++, C#, Python, Java, Node.js, Next.js, SQL, NoSQL.
 - **AI & Data:** Machine Learning, Computer Vision, Image Processing, OpenCV, AI Smart Cam, Power BI.
-- **IoT & Industrial:** IoT (Internet of Things), MQTT, TCP/IP, PLC, Industrial Protocols, Telemetry, Hardware Integration.
-- **Tools & Process:** GIT, Jira, Microsoft Project, Microsoft Excel, Microsoft Powerpoint.
+- **IoT & Industrial:** IoT, MQTT, TCP/IP, PLC, Industrial Protocols, Telemetry, Hardware Integration.
+- **Tools & Process:** Git, Jira, Microsoft Project, Excel, PowerPoint.
 
 ## Education
 
-- **MBA in Management of Technology-Based Companies**
-  University of Vale do Sinos - UNISINOS, Sao Leopoldo, RS | *10/2006*
+- **MBA in Management of Technology‑Based Companies**  
+  University of Vale do Sinos (UNISINOS)
+  São Leopoldo, RS, Brazil
+  *03/2005 – 10/2006*
 
-- **Bachelor's in Computer Science**
-  University of Vale do Itajaí - UNIVALI, Itajai, SC | *07/1995*
+- **Bachelor's in Computer Science**  
+  University of Vale do Itajaí (UNIVALI)
+  Itajaí, SC, Brazil
+  *02/1990 – 07/1995*
 
 ## Languages
 
-- **Portuguese:** Native
-- **English:** Fluent/Professional
-- **Spanish:** Intermediate/Conversational
+- Portuguese: Native
+- English: Fluent/Professional
+- Spanish: Intermediate/Conversational
 
 ## International Experience
 
-- **2015:** Monitoring of integration tests between management system and data with remote energy meters, USA.
-- **2009:** Hannover Fair, Germany.
-- **2009:** 20 days in technical specification meeting with project development partner, India.
-- **2008:** 10 days for training, Germany.
-- **2008:** 10 days visiting raw material suppliers, China.
-- **2008 - 2011:** Meetings in Brazil with technicians and executives from India, Czech Republic and Germany and teleconferences every 15 days.
+- 2015: USA – Integration tests between management system and remote energy meters.
+- 2009: Germany – Hannover Fair.
+- 2009: India – 20‑day technical specification meetings with development partner.
+- 2008: Germany – 10‑day training.
+- 2008: China – 10‑day supplier visits.
+- 2008–2011: Regular meetings and biweekly teleconferences with teams from India, Czech Republic, and Germany.
